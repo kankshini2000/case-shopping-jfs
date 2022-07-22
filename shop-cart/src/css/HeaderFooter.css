@@ -1,0 +1,54 @@
+.fixed-header,
+.fixed-footer {
+    width: 100%;
+    left: 0px;
+    right: 0px;
+    position: fixed;
+    background-color: #0d0d0d;
+    color: #fff;
+    padding-bottom: 10px;
+
+}
+
+.fixed-header {
+    top: 0;
+
+}
+
+.fixed-footer {
+    bottom: 0;
+}
+
+.container {
+    width: 100%;
+    left: 0px;
+}
+
+nav a {
+    color: #fff;
+    padding-left: 5%;
+    right: 0px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.logo {
+    font-size: 40px;
+    padding-right: 100px;
+}
+
+.header__logo {
+    color: rgb(249, 249, 249);
+	width: 65px;
+	position:relative; 
+	top:15px; 
+    z-index: -1;
+}
+
+.header__logo1 {
+    color: rgb(249, 249, 249);
+	width: 65px;
+	position:relative; 
+	top:15px; 
+    z-index: -1;
+}

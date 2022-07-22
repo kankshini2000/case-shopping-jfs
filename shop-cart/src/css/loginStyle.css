@@ -1,0 +1,88 @@
+.form {
+    width: 100%;
+    margin: auto;
+
+}
+
+.error1 {
+    color: red;
+    font-size: 12px;
+}
+
+.error .error1 {
+    color: black;
+    font-size: 17px;
+    text-align: center;
+    background-color: #ff8686;
+    border-radius: 25px;
+}
+
+.register-Form {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    background-color: white;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 25px;
+
+}
+
+.register {
+    width: 100%;
+    padding: 12px 20px;
+    text-align: center;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+input [type=date] {
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.regBtn {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color: #20618c;
+    color: white;
+    font-size: large;
+}
+
+.regBtn1 {
+    width: 55%;
+    padding: 12px 20px;
+    margin: auto;
+    margin-top: 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    background-color: white;
+    color: #3e637b;
+    font-size: large;
+}
+
+
+.img-fluid{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.home__image {
+	width: 100%;
+    height: 50%;
+	z-index: -1;
+	margin-bottom: -600px;
+	mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+}

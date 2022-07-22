@@ -1,0 +1,79 @@
+body {
+	margin-top: 5%;
+	margin-bottom: 3%;
+}
+
+.Name {
+	padding-bottom: 5px;
+	padding-top: 5px;
+	color: rgb(10, 10, 10);
+
+}
+
+hr {
+	color: black;
+}
+
+.userDetails {
+	background-color: #8fc1e2;
+	text-align: center;
+	width: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin: auto;
+	font-size: 25px;
+	border-radius: 25px;
+}
+
+.details,
+.address {
+	padding-bottom: 10px;
+	align-self: center;
+	width: 40%;
+	border-radius: 25px;
+	margin: auto;
+
+}
+
+.details1 {
+	background-color: #94d0ed;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.address1 {
+	background-color: #94d0ed;
+	padding-bottom: 10px;
+	padding-top: 10px;
+
+}
+
+.button11 {
+	background-color: #026cbb;
+	width: 40%;
+	text-align: center;
+	padding-top: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.button2 {
+	background-color: #e3d2d1fb;
+	width: 40%;
+	text-align: center;
+	padding-top: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.span {
+	margin: 10px;
+}
